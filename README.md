@@ -1,9 +1,14 @@
 # SystemForEvents
 
-🟧 It is the development of an event system, from the guest list to their registration.
+The SystemForEvents is a software application that facilitates the management of events, specifically focusing on guest registration and the overall guest list. The system provides two different graphical interfaces, which means there are two different ways to interact with the software visually.
 
-🟪 With two different graphical interfaces.
+The first graphical interface, let's call it Interface A, is designed for event organizers or administrators. It offers functionalities such as creating and managing events, maintaining a guest list, sending invitations, and tracking RSVPs. This interface allows organizers to view and update event details, add or remove guests, and generate reports related to the event's attendance and registration status.
 
+The second graphical interface, Interface B, is designed for event attendees or guests. It provides a user-friendly registration process where guests can input their personal details, RSVP to the event, and provide any additional information requested by the organizer. This interface may also include features such as displaying event information, allowing guests to make dietary preferences or other requests, and providing updates or notifications regarding the event.
+
+Overall, the SystemForEvents simplifies event management by providing a comprehensive solution that covers both the administrative aspect and the guest experience. It streamlines the registration process, enhances communication between organizers and attendees, and helps ensure a smooth and organized event execution.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 MIT License
 
